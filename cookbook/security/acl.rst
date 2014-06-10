@@ -230,4 +230,4 @@ added above:
 
 The user is now allowed to view, edit, delete, and un-delete objects.
 
-.. _`MongoDBAclBundle`: https://github.com/IamPersistent/MongoDBAclBundle
+.. _`MongoDBAclBundle`: https://github.com/zerodine/MongoDBAclBundle
